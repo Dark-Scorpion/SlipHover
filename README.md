@@ -5,12 +5,6 @@ SlipHover apply direction aware hover animation for the caption of an image.
 
 ## Index
 
-* [Quick start](#quick-start)
-* [Options](#options)
-* [Demo](#demo)
-* [Compatibility](#compatibility)
-* [License](#license)
-
 ## Quick start
 
 include the files
